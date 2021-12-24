@@ -11,5 +11,5 @@ oral: "yes"
 arxiv: https://arxiv.org/abs/1810.09658
 link: https://ieeexplore.ieee.org/abstract/document/8987284
 ---
-We propose a framework to fuse a sequence of low-quality 3D facial data acquired by portable DoE based structured light system to achieve high recognition accuracy.
+We propose a method to fuse a sequence of low-quality 3D facial data acquired by portable DoE based structured light system to achieve high recognition accuracy.
  
