@@ -7,7 +7,7 @@ categories: research
 author: "Yang Tan"
 venue: "arXiv preprint arXiv:2207.05510 (Under Review)"
 authors: "<strong>Yang Tan</strong>, Yang Li, Shao-Lun Huang, Xiao-Ping Zhang"
-arxiv: https://arxiv.org/pdf/2207.05510.pdf
+link: https://arxiv.org/pdf/2207.05510.pdf
 ---
 We remove the requirement on auxiliary tasks of OTCE to make it more efficient and generalizable in practical scenarios. Moreover, by taking OTCE as a loss function, we further improve the transfer performance of the source model. 
 
