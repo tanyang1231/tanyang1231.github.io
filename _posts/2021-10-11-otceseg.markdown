@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Transferability Estimation for Semantic Segmentation Task"
+date:   2021-10-11 00:00:00 +00:00
+image: images/otceseg.png
+categories: TechReport
+author: "Yang Tan"
+venue: "arXiv preprint arXiv:2109.15242"
+authors: "<strong>Yang Tan</strong>, Yang Li, Shao-Lun Huang"
+link: https://arxiv.org/pdf/2109.15242.pdf
+---
+A study on applying existing analytical transferability metrics in semantic segmentation tasks.  
+
