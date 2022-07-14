@@ -2,7 +2,7 @@
 layout: post
 title:  "Transferability-Guided Cross-Domain Cross-Task Transfer Learning"
 date:   2022-07-14 22:20:59 +00:00
-image: images/trf_guided_transfer.png
+image: images/trfguidedtransfer.png
 categories: research
 author: "Yang Tan"
 venue: "arXiv preprint arXiv:2207.05510, 2022 (Under Review)"
