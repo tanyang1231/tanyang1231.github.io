@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Finding the Most Transferable Tasks for Brain Image Segmentation"
+date:   2022-12-11 22:20:59 +00:00
+image: images/bibmyc.png
+categories: research
+author: "Yang Tan"
+venue: "International Conference on Bioinformatics and Biomedicine (BIBM)"
+authors: "Yicong Li, <strong>Yang Tan<strong>, Jingyun Yang, Yang Li, Xiao-Ping Zhang"
+oral: "no"
+arxiv: https://arxiv.org/pdf/2301.00934.pdf
+link: https://ieeexplore.ieee.org/abstract/document/9995261/
+---
+We propose a framework for finding the most transferable source tasks in Brain Image Segmentation
+
+ 
