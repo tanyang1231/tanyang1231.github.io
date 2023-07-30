@@ -6,8 +6,7 @@ image: images/bibmyc.png
 categories: research
 author: "Yang Tan"
 venue: "International Conference on Bioinformatics and Biomedicine (BIBM)"
-authors: "Yicong Li, <strong>Yang Tan<strong>, Jingyun Yang, Yang Li, Xiao-Ping Zhang"
-oral: "no"
+authors: "Yicong Li, <strong>Yang Tan</strong>, Jingyun Yang, Yang Li, Xiao-Ping Zhang"
 arxiv: https://arxiv.org/pdf/2301.00934.pdf
 link: https://ieeexplore.ieee.org/abstract/document/9995261/
 ---
