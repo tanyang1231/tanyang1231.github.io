@@ -6,7 +6,7 @@ image: images/crossnet.png
 categories: research
 author: "Yang Tan"
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
-authors: "<strong>Yang Tan</strong>, Haitian Zheng, Yinheng Zhu, Xiaoyun Yuan, Xing Lin, David Brady, Lu Fang"
+authors: "<strong>Yang Tan</strong>*, Haitian Zheng*, Yinheng Zhu, Xiaoyun Yuan, Xing Lin, David Brady, Lu Fang"
 link: https://www.computer.org/csdl/journal/tp/5555/01/09099445/1k7oyvQ9LzO
 ---
 We propose an end-to-end framework to fuse multi-scale images under large parallax for mutli-camera systems.
