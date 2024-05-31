@@ -7,6 +7,8 @@ categories: research
 author: "Yang Tan"
 venue: "International Conference on Image Processing (ICIP)"
 authors: "<strong>Yang Tan</strong>, Yicong Li, Yang Li, Xiao-Ping Zhang"
+link: http://yangli-feasibility.com/home/media/icip-23.pdf
+code: https://github.com/tanyang1231/SegmentationTransferability
 ---
 We propose a flexible adaptation method to gneralize existing transferability metrics to semantic segmentation tasks. In addition, we propose to utilize pixel-wise transferability map to further enhance model finetuning. 
 
