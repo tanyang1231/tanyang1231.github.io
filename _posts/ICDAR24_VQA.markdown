@@ -3,7 +3,7 @@ layout: post
 title:  "ICDAR 2024 Competition on Recognition and VQA on Handwritten Documents (ICDAR 2024 HWD)"
 date:   2024-05-29 00:00:00 +00:00
 image: images/trfguidedtransfer.png
-categories: research
+categories: competition
 author: "Yang Tan"
 venue: "IEEE ICDAR 2024"
 authors: "<strong>Yang Tan</strong>, Xuebin Zhao, Wei Wu, Ying Liu, Wenjie Wang, Shaokai Xu, Liang Diao"
