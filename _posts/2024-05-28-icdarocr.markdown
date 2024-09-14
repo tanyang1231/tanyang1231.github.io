@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "First place of ICDAR 2024 Competition on Multi-Font Recognition and OCR"
+date:   2024-05-29 00:00:00 +00:00
+image: images/award_icdar_ocr.png
+categories: competition
+author: "Yang Tan"
+venue: "International Conference on Document Analysis and Recognition (ICDAR)"
+authors: "Ying Liu, Shaokai Xu, <strong>Yang Tan</strong>, Wei Wu, Wenjie Wang, Liang Diao"
+---
