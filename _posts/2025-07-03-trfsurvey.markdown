@@ -7,5 +7,5 @@ categories: research
 author: "Yang Tan"
 venue: "arxiv 2507.03175"
 authors: " Haohua Wang*, Jingge Wang*, Zijie Zhao, <strong>Yang Tan</strong>, Yanru Wu, Hanbing Liu, Jingyun Yang, Enming Zhang, Xiangyu Chen, Zhengze Rong, Shanxin Guo, Yang Li"
-arxiv: https://arxiv.org/pdf/2502.02340
+arxiv: https://arxiv.org/pdf/2507.03175
 ---
