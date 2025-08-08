@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Winner of ICDAR'25 Competition on Understanding Chinese College Entrance Exam Papers"
+date:   2025-04-18 00:00:00 +00:00
+image: images/rank.jpg
+categories: competition
+author: "Yang Tan"
+venue: "International Conference on Document Analysis and Recognition (ICDAR)"
+authors: "Wei Wu*, Wenjie Wang*, <strong>Yang Tan</strong>*, Ying Liu,Liang Diao"
+---
