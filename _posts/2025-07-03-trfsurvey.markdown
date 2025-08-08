@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding Knowledge Transferability for Transfer Learning: A Survey"
 date:   2025-07-03 22:20:59 +00:00
-image: images/transferRisk.png
+image: images/trf_survey.png
 categories: research
 author: "Yang Tan"
 venue: "arxiv 2507.03175"
