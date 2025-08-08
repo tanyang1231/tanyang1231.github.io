@@ -7,4 +7,6 @@ categories: competition
 author: "Yang Tan"
 venue: "International Conference on Document Analysis and Recognition (ICDAR)"
 authors: "Wei Wu*, Wenjie Wang*, <strong>Yang Tan</strong>*, Ying Liu,Liang Diao"
+arxiv: http://arxiv.org/abs/2508.00834
+code: https://github.com/Dejavuvvw/1st_solution_UCCEEP_ICDAR2025
 ---
